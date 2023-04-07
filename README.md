@@ -1,4 +1,4 @@
-# app_with_api
+# news-app
 
 A new Flutter project.
 
